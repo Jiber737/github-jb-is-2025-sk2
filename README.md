@@ -2,3 +2,5 @@
 Ultra repozitář k předmětu informačních systémů 2025
 
 prvni testovaci comit z lokálního notebooku v H71 (2025-9-25, 13:31)
+
+omg hnedka druhý testovací commit přímo z webu githubu (2025-09-25, 13:48)
