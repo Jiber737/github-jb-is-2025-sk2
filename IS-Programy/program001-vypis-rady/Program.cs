@@ -37,7 +37,7 @@ while (again == "a")
         Console.WriteLine("to se ti moc nepodarilo, zkus to zadat znovu");
     }
 
-
+    Console.WriteLine();
     Console.WriteLine("===================================");
     Console.WriteLine("zadali jste tyto hodnoty: ");
     Console.WriteLine("první číslo: {0}", first);
@@ -46,10 +46,24 @@ while (again == "a")
     Console.WriteLine("první hodnota je: {0}, poslední hodnota je: {1}, krok je: {2}", first, last, step);
     Console.WriteLine("===================================");
 
+    Console.WriteLine();
+    Console.WriteLine("===================================");
+    Console.WriteLine("výpis požadovaných hodnot: ");
 
+    int pocet = 0;
+    int prumer = 0; 
+    for (int i = first; i <= last; i = i + step)
+    {
+        pocet++;
+        prumer = prumer + i;
+        Console.WriteLine(i);
+    }
 
-
-
+    Console.WriteLine();
+    Console.WriteLine("celkový počet vypsaných hodnot je: {0}", pocet);
+    
+    Console.WriteLine();
+    Console.WriteLine("celkový pruměr vypsaných hodnot je: {0}", prumer / pocet);
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
     again = Console.ReadLine();
