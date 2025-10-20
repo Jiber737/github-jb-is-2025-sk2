@@ -25,11 +25,11 @@ while (again == "a")
     }
 
     //first = int.Parse(Console.ReadLine());
-    string cislicko =  first.ToString();
-    int sum = 0;
+    string cislicko =  first.ToString(); //převedení čísla na řetězec v podobě string
+    int sum = 0; //tady se bude přičítat
     foreach (char c in cislicko)
     {
-        sum += int.Parse(c.ToString());
+        sum += int.Parse(c.ToString()); //každý ynak se převede zpýtkz na číslo a potom se přičte k sum
     }
     Console.WriteLine("ciferný součet čísla {0} je {1}", first, sum);   
 
