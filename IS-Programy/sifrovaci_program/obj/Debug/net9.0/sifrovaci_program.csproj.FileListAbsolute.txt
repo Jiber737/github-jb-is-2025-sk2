@@ -1,0 +1,15 @@
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\sifrovaci_program\obj\Debug\net9.0\sifrovaci_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\sifrovaci_program\obj\Debug\net9.0\sifrovaci_program.AssemblyInfoInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\sifrovaci_program\obj\Debug\net9.0\sifrovaci_program.AssemblyInfo.cs
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\sifrovaci_program\obj\Debug\net9.0\sifrovaci_program.csproj.CoreCompileInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\sifrovaci_program\obj\Debug\net9.0\sifrovaci_program.sourcelink.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\sifrovaci_program\bin\Debug\net9.0\sifrovaci_program.exe
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\sifrovaci_program\bin\Debug\net9.0\sifrovaci_program.deps.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\sifrovaci_program\bin\Debug\net9.0\sifrovaci_program.runtimeconfig.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\sifrovaci_program\bin\Debug\net9.0\sifrovaci_program.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\sifrovaci_program\bin\Debug\net9.0\sifrovaci_program.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\sifrovaci_program\obj\Debug\net9.0\sifrovaci_program.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\sifrovaci_program\obj\Debug\net9.0\refint\sifrovaci_program.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\sifrovaci_program\obj\Debug\net9.0\sifrovaci_program.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\sifrovaci_program\obj\Debug\net9.0\sifrovaci_program.genruntimeconfig.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\sifrovaci_program\obj\Debug\net9.0\ref\sifrovaci_program.dll
