@@ -39,7 +39,8 @@ while (again == "a")
         Console.Write("Nezadali jste celé číslo. Zadejte třetí číslo  znovu: ");
     }
 
-    if (a > b)
+
+    if (a > b) //rozhodnutí a vs b
     {
         if (a > c)
         {
