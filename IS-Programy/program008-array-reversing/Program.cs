@@ -58,11 +58,25 @@ while (again == "a")
     Console.WriteLine("Alright, teď reverzuji pole...");
 
     Console.WriteLine();
-    Console.WriteLine("Pseudonáhodná čísla v reverzním pořadí:");
+    Console.WriteLine("Pseudonáhodná čísla v reverzním pořadí:"); //za pomoci druheho pole
     for (int i = 0; i < n ; i++)
     {
         myRandNumbsReverse[i] = myRandNumbs[n - i - 1];
         
+    }
+
+    for (int i = 0; i < n ; i++)
+    {
+        Console.Write("{0}; ", myRandNumbsReverse[i]);
+    }
+
+    Console.WriteLine();
+    Console.WriteLine("Pseudonáhodná čísla v reverzním pořadí:"); //za pomoci temp hodnoty
+    for (int i = 0; i < n/2 ; i++)
+    {
+        int temp = myRandNumbs[i];
+        myRandNumbs[i] = myRandNumbs[n - i - 1];
+        myRandNumbs[n - i - 1] = temp;        
     }
 
     for (int i = 0; i < n ; i++)
