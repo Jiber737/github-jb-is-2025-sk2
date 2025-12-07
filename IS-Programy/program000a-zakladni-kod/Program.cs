@@ -19,7 +19,7 @@ while (again == "a")
     int first;
     while (!int.TryParse(Console.ReadLine(), out first))
     {   
-        Console.foregroundColor = ConsoleColor.Red;
+        Console.ForegroundColor = ConsoleColor.Red;
         Console.Write("Nezadali jste celé číslo. Zadejte prosíííím číslo znovu: ");
         Console.ResetColor();
     }

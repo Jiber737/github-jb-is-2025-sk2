@@ -1,0 +1,15 @@
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\wacc-pocitani\bin\Debug\net9.0\wacc-pocitani.exe
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\wacc-pocitani\bin\Debug\net9.0\wacc-pocitani.deps.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\wacc-pocitani\bin\Debug\net9.0\wacc-pocitani.runtimeconfig.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\wacc-pocitani\bin\Debug\net9.0\wacc-pocitani.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\wacc-pocitani\bin\Debug\net9.0\wacc-pocitani.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\wacc-pocitani\obj\Debug\net9.0\wacc-pocitani.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\wacc-pocitani\obj\Debug\net9.0\wacc-pocitani.AssemblyInfoInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\wacc-pocitani\obj\Debug\net9.0\wacc-pocitani.AssemblyInfo.cs
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\wacc-pocitani\obj\Debug\net9.0\wacc-pocitani.csproj.CoreCompileInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\wacc-pocitani\obj\Debug\net9.0\wacc-pocitani.sourcelink.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\wacc-pocitani\obj\Debug\net9.0\wacc-pocitani.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\wacc-pocitani\obj\Debug\net9.0\refint\wacc-pocitani.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\wacc-pocitani\obj\Debug\net9.0\wacc-pocitani.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\wacc-pocitani\obj\Debug\net9.0\wacc-pocitani.genruntimeconfig.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\wacc-pocitani\obj\Debug\net9.0\ref\wacc-pocitani.dll

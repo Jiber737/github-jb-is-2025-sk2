@@ -1,0 +1,15 @@
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004e-8-mrizka\bin\Debug\net9.0\program004e-8-mrizka.exe
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004e-8-mrizka\bin\Debug\net9.0\program004e-8-mrizka.deps.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004e-8-mrizka\bin\Debug\net9.0\program004e-8-mrizka.runtimeconfig.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004e-8-mrizka\bin\Debug\net9.0\program004e-8-mrizka.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004e-8-mrizka\bin\Debug\net9.0\program004e-8-mrizka.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004e-8-mrizka\obj\Debug\net9.0\program004e-8-mrizka.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004e-8-mrizka\obj\Debug\net9.0\program004e-8-mrizka.AssemblyInfoInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004e-8-mrizka\obj\Debug\net9.0\program004e-8-mrizka.AssemblyInfo.cs
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004e-8-mrizka\obj\Debug\net9.0\program004e-8-mrizka.csproj.CoreCompileInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004e-8-mrizka\obj\Debug\net9.0\program004e-8-mrizka.sourcelink.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004e-8-mrizka\obj\Debug\net9.0\program004e-8-mrizka.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004e-8-mrizka\obj\Debug\net9.0\refint\program004e-8-mrizka.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004e-8-mrizka\obj\Debug\net9.0\program004e-8-mrizka.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004e-8-mrizka\obj\Debug\net9.0\program004e-8-mrizka.genruntimeconfig.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004e-8-mrizka\obj\Debug\net9.0\ref\program004e-8-mrizka.dll

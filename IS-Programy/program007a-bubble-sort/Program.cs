@@ -54,7 +54,34 @@ while (again == "a")
         Console.Write("{0}; ", myRandNumbs[i]);
     }
 
+
     
+    for (int i = 0; i < n-1; i++)
+    { //musí zajistit porovnávání dvou sousedních hodnot
+        for (int j = 0; j < n-1-i; j++)
+         // porovnání aktuálního a následujícího prvku
+        {
+            if (myRandNumbs[j] > myRandNumbs[j+1])
+            {
+                //prohození hodnot
+                int temp = myRandNumbs[j];
+                myRandNumbs[j] = myRandNumbs[j+1];
+                myRandNumbs[j+1] = temp;
+            }
+        }
+
+    }
+
+    Console.WriteLine();
+    Console.WriteLine("=============================================");
+    Console.WriteLine("seřazená čísla jsou: ");
+    for (int i = 0; i < n ; i++)
+    {
+            Console.Write("{0}; ", myRandNumbs[i]);
+
+    }
+
+
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
     again = Console.ReadLine();

@@ -1,0 +1,15 @@
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program006b-min-max\bin\Debug\net9.0\program006b-min-max.exe
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program006b-min-max\bin\Debug\net9.0\program006b-min-max.deps.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program006b-min-max\bin\Debug\net9.0\program006b-min-max.runtimeconfig.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program006b-min-max\bin\Debug\net9.0\program006b-min-max.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program006b-min-max\bin\Debug\net9.0\program006b-min-max.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program006b-min-max\obj\Debug\net9.0\program006b-min-max.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program006b-min-max\obj\Debug\net9.0\program006b-min-max.AssemblyInfoInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program006b-min-max\obj\Debug\net9.0\program006b-min-max.AssemblyInfo.cs
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program006b-min-max\obj\Debug\net9.0\program006b-min-max.csproj.CoreCompileInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program006b-min-max\obj\Debug\net9.0\program006b-min-max.sourcelink.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program006b-min-max\obj\Debug\net9.0\program006b-min-max.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program006b-min-max\obj\Debug\net9.0\refint\program006b-min-max.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program006b-min-max\obj\Debug\net9.0\program006b-min-max.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program006b-min-max\obj\Debug\net9.0\program006b-min-max.genruntimeconfig.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program006b-min-max\obj\Debug\net9.0\ref\program006b-min-max.dll

@@ -1,0 +1,15 @@
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-12-stridani\bin\Debug\net9.0\program004d-12-stridani.exe
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-12-stridani\bin\Debug\net9.0\program004d-12-stridani.deps.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-12-stridani\bin\Debug\net9.0\program004d-12-stridani.runtimeconfig.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-12-stridani\bin\Debug\net9.0\program004d-12-stridani.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-12-stridani\bin\Debug\net9.0\program004d-12-stridani.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-12-stridani\obj\Debug\net9.0\program004d-12-stridani.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-12-stridani\obj\Debug\net9.0\program004d-12-stridani.AssemblyInfoInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-12-stridani\obj\Debug\net9.0\program004d-12-stridani.AssemblyInfo.cs
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-12-stridani\obj\Debug\net9.0\program004d-12-stridani.csproj.CoreCompileInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-12-stridani\obj\Debug\net9.0\program004d-12-stridani.sourcelink.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-12-stridani\obj\Debug\net9.0\program004d-12-stridani.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-12-stridani\obj\Debug\net9.0\refint\program004d-12-stridani.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-12-stridani\obj\Debug\net9.0\program004d-12-stridani.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-12-stridani\obj\Debug\net9.0\program004d-12-stridani.genruntimeconfig.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-12-stridani\obj\Debug\net9.0\ref\program004d-12-stridani.dll

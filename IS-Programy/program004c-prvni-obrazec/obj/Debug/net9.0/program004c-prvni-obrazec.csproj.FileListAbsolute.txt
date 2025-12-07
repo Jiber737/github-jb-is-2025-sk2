@@ -1,0 +1,15 @@
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004c-prvni-obrazec\bin\Debug\net9.0\program004c-prvni-obrazec.exe
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004c-prvni-obrazec\bin\Debug\net9.0\program004c-prvni-obrazec.deps.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004c-prvni-obrazec\bin\Debug\net9.0\program004c-prvni-obrazec.runtimeconfig.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004c-prvni-obrazec\bin\Debug\net9.0\program004c-prvni-obrazec.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004c-prvni-obrazec\bin\Debug\net9.0\program004c-prvni-obrazec.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004c-prvni-obrazec\obj\Debug\net9.0\program004c-prvni-obrazec.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004c-prvni-obrazec\obj\Debug\net9.0\program004c-prvni-obrazec.AssemblyInfoInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004c-prvni-obrazec\obj\Debug\net9.0\program004c-prvni-obrazec.AssemblyInfo.cs
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004c-prvni-obrazec\obj\Debug\net9.0\program004c-prvni-obrazec.csproj.CoreCompileInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004c-prvni-obrazec\obj\Debug\net9.0\program004c-prvni-obrazec.sourcelink.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004c-prvni-obrazec\obj\Debug\net9.0\program004c-prvni-obrazec.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004c-prvni-obrazec\obj\Debug\net9.0\refint\program004c-prvni-obrazec.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004c-prvni-obrazec\obj\Debug\net9.0\program004c-prvni-obrazec.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004c-prvni-obrazec\obj\Debug\net9.0\program004c-prvni-obrazec.genruntimeconfig.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004c-prvni-obrazec\obj\Debug\net9.0\ref\program004c-prvni-obrazec.dll

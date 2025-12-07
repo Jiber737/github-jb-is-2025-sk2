@@ -1,0 +1,5 @@
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005a-generator-kladna-zaporna-nulova\obj\Debug\net9.0\program005a-generator-kladna-zaporna-nulova.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005a-generator-kladna-zaporna-nulova\obj\Debug\net9.0\program005a-generator-kladna-zaporna-nulova.AssemblyInfoInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005a-generator-kladna-zaporna-nulova\obj\Debug\net9.0\program005a-generator-kladna-zaporna-nulova.AssemblyInfo.cs
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005a-generator-kladna-zaporna-nulova\obj\Debug\net9.0\program005a-generator-kladna-zaporna-nulova.csproj.CoreCompileInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005a-generator-kladna-zaporna-nulova\obj\Debug\net9.0\program005a-generator-kladna-zaporna-nulova.sourcelink.json

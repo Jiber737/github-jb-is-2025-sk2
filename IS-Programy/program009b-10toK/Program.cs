@@ -52,13 +52,6 @@ while (again == "a")
     }
     Console.ForegroundColor = ConsoleColor.White;
     Console.WriteLine();
-
-
-
-  
-
-
-    Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
     again = Console.ReadLine();
 

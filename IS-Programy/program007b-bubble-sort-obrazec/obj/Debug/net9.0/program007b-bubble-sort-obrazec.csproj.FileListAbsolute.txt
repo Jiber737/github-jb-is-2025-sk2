@@ -1,0 +1,15 @@
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program007b-bubble-sort-obrazec\bin\Debug\net9.0\program007b-bubble-sort-obrazec.exe
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program007b-bubble-sort-obrazec\bin\Debug\net9.0\program007b-bubble-sort-obrazec.deps.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program007b-bubble-sort-obrazec\bin\Debug\net9.0\program007b-bubble-sort-obrazec.runtimeconfig.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program007b-bubble-sort-obrazec\bin\Debug\net9.0\program007b-bubble-sort-obrazec.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program007b-bubble-sort-obrazec\bin\Debug\net9.0\program007b-bubble-sort-obrazec.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.AssemblyInfoInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.AssemblyInfo.cs
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.csproj.CoreCompileInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.sourcelink.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\refint\program007b-bubble-sort-obrazec.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.genruntimeconfig.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\ref\program007b-bubble-sort-obrazec.dll

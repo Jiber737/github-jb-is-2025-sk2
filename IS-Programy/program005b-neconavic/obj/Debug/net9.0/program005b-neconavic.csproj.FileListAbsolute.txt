@@ -1,0 +1,15 @@
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005b-neconavic\bin\Debug\net9.0\program005b-neconavic.exe
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005b-neconavic\bin\Debug\net9.0\program005b-neconavic.deps.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005b-neconavic\bin\Debug\net9.0\program005b-neconavic.runtimeconfig.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005b-neconavic\bin\Debug\net9.0\program005b-neconavic.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005b-neconavic\bin\Debug\net9.0\program005b-neconavic.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005b-neconavic\obj\Debug\net9.0\program005b-neconavic.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005b-neconavic\obj\Debug\net9.0\program005b-neconavic.AssemblyInfoInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005b-neconavic\obj\Debug\net9.0\program005b-neconavic.AssemblyInfo.cs
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005b-neconavic\obj\Debug\net9.0\program005b-neconavic.csproj.CoreCompileInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005b-neconavic\obj\Debug\net9.0\program005b-neconavic.sourcelink.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005b-neconavic\obj\Debug\net9.0\program005b-neconavic.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005b-neconavic\obj\Debug\net9.0\refint\program005b-neconavic.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005b-neconavic\obj\Debug\net9.0\program005b-neconavic.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005b-neconavic\obj\Debug\net9.0\program005b-neconavic.genruntimeconfig.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program005b-neconavic\obj\Debug\net9.0\ref\program005b-neconavic.dll

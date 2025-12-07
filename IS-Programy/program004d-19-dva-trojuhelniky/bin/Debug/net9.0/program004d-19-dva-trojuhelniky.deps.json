@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "program004d-19-dva-trojuhelniky/1.0.0": {
+        "runtime": {
+          "program004d-19-dva-trojuhelniky.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program004d-19-dva-trojuhelniky/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

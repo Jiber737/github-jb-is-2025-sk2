@@ -1,0 +1,15 @@
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-19-dva-trojuhelniky\obj\Debug\net9.0\program004d-19-dva-trojuhelniky.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-19-dva-trojuhelniky\obj\Debug\net9.0\program004d-19-dva-trojuhelniky.AssemblyInfoInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-19-dva-trojuhelniky\obj\Debug\net9.0\program004d-19-dva-trojuhelniky.AssemblyInfo.cs
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-19-dva-trojuhelniky\obj\Debug\net9.0\program004d-19-dva-trojuhelniky.csproj.CoreCompileInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-19-dva-trojuhelniky\obj\Debug\net9.0\program004d-19-dva-trojuhelniky.sourcelink.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-19-dva-trojuhelniky\bin\Debug\net9.0\program004d-19-dva-trojuhelniky.exe
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-19-dva-trojuhelniky\bin\Debug\net9.0\program004d-19-dva-trojuhelniky.deps.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-19-dva-trojuhelniky\bin\Debug\net9.0\program004d-19-dva-trojuhelniky.runtimeconfig.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-19-dva-trojuhelniky\bin\Debug\net9.0\program004d-19-dva-trojuhelniky.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-19-dva-trojuhelniky\bin\Debug\net9.0\program004d-19-dva-trojuhelniky.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-19-dva-trojuhelniky\obj\Debug\net9.0\program004d-19-dva-trojuhelniky.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-19-dva-trojuhelniky\obj\Debug\net9.0\refint\program004d-19-dva-trojuhelniky.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-19-dva-trojuhelniky\obj\Debug\net9.0\program004d-19-dva-trojuhelniky.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-19-dva-trojuhelniky\obj\Debug\net9.0\program004d-19-dva-trojuhelniky.genruntimeconfig.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program004d-19-dva-trojuhelniky\obj\Debug\net9.0\ref\program004d-19-dva-trojuhelniky.dll

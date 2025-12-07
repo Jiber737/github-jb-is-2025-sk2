@@ -3,10 +3,10 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("********************************************");
-    Console.WriteLine("*********** Výpis číselné řady *************");
+    Console.WriteLine("************ Binarni soustava **************");
     Console.WriteLine("********************************************");
-    Console.WriteLine("************** Jiří Bertl ******************");
-    Console.WriteLine("************** 2.10.2025 *******************");
+    Console.WriteLine("*************** Jiří Bertl *****************");
+    Console.WriteLine("*************** 2.10.2025 ******************");
     Console.WriteLine("********************************************");
     Console.WriteLine();
 
