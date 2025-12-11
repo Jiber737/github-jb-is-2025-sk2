@@ -1,0 +1,15 @@
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program013b-NSD-NSN\bin\Debug\net9.0\program013b-NSD-NSN.exe
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program013b-NSD-NSN\bin\Debug\net9.0\program013b-NSD-NSN.deps.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program013b-NSD-NSN\bin\Debug\net9.0\program013b-NSD-NSN.runtimeconfig.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program013b-NSD-NSN\bin\Debug\net9.0\program013b-NSD-NSN.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program013b-NSD-NSN\bin\Debug\net9.0\program013b-NSD-NSN.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program013b-NSD-NSN\obj\Debug\net9.0\program013b-NSD-NSN.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program013b-NSD-NSN\obj\Debug\net9.0\program013b-NSD-NSN.AssemblyInfoInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program013b-NSD-NSN\obj\Debug\net9.0\program013b-NSD-NSN.AssemblyInfo.cs
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program013b-NSD-NSN\obj\Debug\net9.0\program013b-NSD-NSN.csproj.CoreCompileInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program013b-NSD-NSN\obj\Debug\net9.0\program013b-NSD-NSN.sourcelink.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program013b-NSD-NSN\obj\Debug\net9.0\program013b-NSD-NSN.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program013b-NSD-NSN\obj\Debug\net9.0\refint\program013b-NSD-NSN.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program013b-NSD-NSN\obj\Debug\net9.0\program013b-NSD-NSN.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program013b-NSD-NSN\obj\Debug\net9.0\program013b-NSD-NSN.genruntimeconfig.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\program013b-NSD-NSN\obj\Debug\net9.0\ref\program013b-NSD-NSN.dll
