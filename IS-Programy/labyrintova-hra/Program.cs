@@ -8,6 +8,7 @@ class Program
     { '#','@',' ',' ',' ','#',' ',' ',' ',' ','*',' ',' ','#' },
     { '#',' ','#','#',' ','#',' ','#','#','#','#','#',' ','#' },
     { '#',' ',' ','#',' ',' ',' ',' ',' ',' ',' ','#',' ','#' },
+    { '#',' ',' ',' ',' ','X',' ','#',' ','#',' ',' ',' ','#' },
     { '#','#',' ','#','#','#','#','#',' ','#',' ','#',' ','#' },
     { '#',' ',' ',' ',' ',' ',' ','#',' ','#',' ',' ',' ','#' },
     { '#',' ','#','#','#','#',' ','#',' ','#','#','#',' ','#' },
@@ -27,15 +28,22 @@ class Program
     static bool running = true;
     static bool maPoklad = false;
 
+    static int enemyX = 5;
+    static int enemyY = 5;
+    static bool hracZije = true;
+    static Random rnd = new Random();
+
+
     static void Main()
     {
         Console.CursorVisible = false;
-
+        Uvod();
         while (running)
         {
             Console.Clear();
             VykresliMapu();
             OvladejHrace();
+            PohniNepritelem();
             ZkontrolujStav();
         }
 
@@ -43,6 +51,26 @@ class Program
     }
 
     // =======================
+
+    static void Uvod()
+{
+    Console.Clear();
+    Console.WriteLine("=== ASCII DUNGEON ===\n");
+    Console.WriteLine("Jsi dobrodruh uvězněný v dungeonů.");
+    Console.WriteLine("Tvým cílem je najít poklad (*)");
+    Console.WriteLine("a poté dojít k východu (E).\n");
+
+    Console.WriteLine("Pozor na nepřítele (X)!");
+    Console.WriteLine("Pokud tě dostihne, zemřeš.\n");
+
+    Console.WriteLine("Ovládání:");
+    Console.WriteLine("W A S D - pohyb");
+    Console.WriteLine("Q - ukončit hru\n");
+
+    Console.WriteLine("Stiskni libovolnou klávesu pro start...");
+    Console.ReadKey(true);
+}
+
 
     static void VykresliMapu()
     {
@@ -112,8 +140,10 @@ class Program
     static void PresunHrace(int newX, int newY)
 {
     if (mapa[newY, newX] == '*')
+       { 
         maPoklad = true;
-
+        podHracem = ' ';
+       }
     // vrátíme původní znak
     mapa[hracY, hracX] = podHracem;
 
@@ -124,6 +154,29 @@ class Program
     hracY = newY;
 
     mapa[hracY, hracX] = '@';
+}
+static void PohniNepritelem()
+{
+    int smer = rnd.Next(4);
+
+    int newX = enemyX;
+    int newY = enemyY;
+
+    switch (smer)
+    {
+        case 0: newY--; break;
+        case 1: newY++; break;
+        case 2: newX--; break;
+        case 3: newX++; break;
+    }
+
+    if (mapa[newY, newX] != '#')
+    {
+        mapa[enemyY, enemyX] = ' ';
+        enemyX = newX;
+        enemyY = newY;
+        mapa[enemyY, enemyX] = 'X';
+    }
 }
 
 
@@ -138,6 +191,12 @@ class Program
 
         running = false;
     }
+    if (hracX == enemyX && hracY == enemyY)
+    {
+        hracZije = false;
+        running = false;
+    }
+
 }
 
 
@@ -155,6 +214,12 @@ class Program
         Console.WriteLine("💀 PROHRÁL JSI!");
         Console.WriteLine("Bez pokladu nemůžeš odejít.");
     }
+    else if (!hracZije)
+    {
+        Console.WriteLine("💀 ZEMŘEL JSI!");
+        Console.WriteLine("Nepřítel tě dostihl.");
+    }
+
     else
     {
         Console.WriteLine("Hra ukončena.");
