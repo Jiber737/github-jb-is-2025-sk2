@@ -1,0 +1,15 @@
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\zkusebni-test\obj\Debug\net9.0\zkusebni-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\zkusebni-test\obj\Debug\net9.0\zkusebni-test.AssemblyInfoInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\zkusebni-test\obj\Debug\net9.0\zkusebni-test.AssemblyInfo.cs
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\zkusebni-test\obj\Debug\net9.0\zkusebni-test.csproj.CoreCompileInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\zkusebni-test\obj\Debug\net9.0\zkusebni-test.sourcelink.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\zkusebni-test\bin\Debug\net9.0\zkusebni-test.exe
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\zkusebni-test\bin\Debug\net9.0\zkusebni-test.deps.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\zkusebni-test\bin\Debug\net9.0\zkusebni-test.runtimeconfig.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\zkusebni-test\bin\Debug\net9.0\zkusebni-test.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\zkusebni-test\bin\Debug\net9.0\zkusebni-test.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\zkusebni-test\obj\Debug\net9.0\zkusebni-test.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\zkusebni-test\obj\Debug\net9.0\refint\zkusebni-test.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\zkusebni-test\obj\Debug\net9.0\zkusebni-test.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\zkusebni-test\obj\Debug\net9.0\zkusebni-test.genruntimeconfig.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\zkusebni-test\obj\Debug\net9.0\ref\zkusebni-test.dll

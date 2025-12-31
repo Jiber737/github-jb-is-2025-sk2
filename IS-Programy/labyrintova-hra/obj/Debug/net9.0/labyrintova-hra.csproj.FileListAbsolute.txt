@@ -1,0 +1,15 @@
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\labyrintova-hra\bin\Debug\net9.0\labyrintova-hra.exe
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\labyrintova-hra\bin\Debug\net9.0\labyrintova-hra.deps.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\labyrintova-hra\bin\Debug\net9.0\labyrintova-hra.runtimeconfig.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\labyrintova-hra\bin\Debug\net9.0\labyrintova-hra.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\labyrintova-hra\bin\Debug\net9.0\labyrintova-hra.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\labyrintova-hra\obj\Debug\net9.0\labyrintova-hra.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\labyrintova-hra\obj\Debug\net9.0\labyrintova-hra.AssemblyInfoInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\labyrintova-hra\obj\Debug\net9.0\labyrintova-hra.AssemblyInfo.cs
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\labyrintova-hra\obj\Debug\net9.0\labyrintova-hra.csproj.CoreCompileInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\labyrintova-hra\obj\Debug\net9.0\labyrintova-hra.sourcelink.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\labyrintova-hra\obj\Debug\net9.0\labyrintova-hra.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\labyrintova-hra\obj\Debug\net9.0\refint\labyrintova-hra.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\labyrintova-hra\obj\Debug\net9.0\labyrintova-hra.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\labyrintova-hra\obj\Debug\net9.0\labyrintova-hra.genruntimeconfig.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\labyrintova-hra\obj\Debug\net9.0\ref\labyrintova-hra.dll

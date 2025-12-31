@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("wacc-pocitani")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("zkusebni-test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34c4dd17d74426572960ba95eca8b71f50e026e1")]
-[assembly: System.Reflection.AssemblyProductAttribute("wacc-pocitani")]
-[assembly: System.Reflection.AssemblyTitleAttribute("wacc-pocitani")]
+[assembly: System.Reflection.AssemblyProductAttribute("zkusebni-test")]
+[assembly: System.Reflection.AssemblyTitleAttribute("zkusebni-test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild

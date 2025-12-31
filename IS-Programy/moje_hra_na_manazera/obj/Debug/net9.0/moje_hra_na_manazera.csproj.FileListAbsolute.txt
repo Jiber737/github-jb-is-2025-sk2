@@ -1,0 +1,15 @@
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\moje_hra_na_manazera\bin\Debug\net9.0\moje_hra_na_manazera.exe
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\moje_hra_na_manazera\bin\Debug\net9.0\moje_hra_na_manazera.deps.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\moje_hra_na_manazera\bin\Debug\net9.0\moje_hra_na_manazera.runtimeconfig.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\moje_hra_na_manazera\bin\Debug\net9.0\moje_hra_na_manazera.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\moje_hra_na_manazera\bin\Debug\net9.0\moje_hra_na_manazera.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\moje_hra_na_manazera\obj\Debug\net9.0\moje_hra_na_manazera.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\moje_hra_na_manazera\obj\Debug\net9.0\moje_hra_na_manazera.AssemblyInfoInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\moje_hra_na_manazera\obj\Debug\net9.0\moje_hra_na_manazera.AssemblyInfo.cs
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\moje_hra_na_manazera\obj\Debug\net9.0\moje_hra_na_manazera.csproj.CoreCompileInputs.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\moje_hra_na_manazera\obj\Debug\net9.0\moje_hra_na_manazera.sourcelink.json
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\moje_hra_na_manazera\obj\Debug\net9.0\moje_hra_na_manazera.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\moje_hra_na_manazera\obj\Debug\net9.0\refint\moje_hra_na_manazera.dll
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\moje_hra_na_manazera\obj\Debug\net9.0\moje_hra_na_manazera.pdb
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\moje_hra_na_manazera\obj\Debug\net9.0\moje_hra_na_manazera.genruntimeconfig.cache
+C:\aaa\IS_2025-Sk2\github-jb-is-2025-sk2\IS-Programy\moje_hra_na_manazera\obj\Debug\net9.0\ref\moje_hra_na_manazera.dll

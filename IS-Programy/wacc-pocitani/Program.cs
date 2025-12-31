@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Hej kamo jdeme si spocitat wacc, coz jse vazeny aritmeticky prumer");
+﻿/*Console.WriteLine("Hej kamo jdeme si spocitat wacc, coz jse vazeny aritmeticky prumer");
 Console.WriteLine("vzorec pro jeho vypocet je tento wacc=(E/V)*Re + (D/V)*Rd*(1-Tc)");
 Console.WriteLine("Zadej E (tržní hodnota vlastního kapitálu): ");
 double E = Convert.ToDouble(Console.ReadLine());
@@ -16,3 +16,13 @@ double wacc = (E / V) * Re + (D / V) * Rd * (1 - Tc);
 Console.WriteLine("WACC (vážený průměr nákladů na kapitál) je tedy: {0} %", wacc * 100);
 Console.ReadLine();
 
+*/
+
+if (7 - 3.0 - 'A' + 0 && 3.0 > 'A' && 7.0)
+{
+    Console.WriteLine("Podmínka je splněna.");
+}
+else
+{
+    Console.WriteLine("Podmínka není splněna.");
+}
