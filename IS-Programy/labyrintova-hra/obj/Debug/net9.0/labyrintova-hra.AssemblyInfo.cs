@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("labyrintova-hra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+570b146185f277ed478b66de6a408919b0a9e64b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0f2dce4c68559df724c8f3c2a7365fbb259a64a")]
 [assembly: System.Reflection.AssemblyProductAttribute("labyrintova-hra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("labyrintova-hra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

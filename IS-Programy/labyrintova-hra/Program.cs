@@ -206,7 +206,7 @@ static void PresunHrace(int newX, int newY)
     mapa[hracY, hracX] = '@';
 }
 
-static void PohniNepritelem()
+/*static void PohniNepritelem()
 {
     int smer = rnd.Next(4);
 
@@ -234,7 +234,58 @@ static void PohniNepritelem()
 
         mapa[enemyY, enemyX] = 'X';
     }
+}*/
+
+    static bool JePruchozi(int x, int y)
+    {
+      return mapa[y, x] != '#';
+    }
+
+    static void PohniNepritelem()
+{
+    int dx = hracX - enemyX;
+    int dy = hracY - enemyY;
+
+    int newX = enemyX;
+    int newY = enemyY;
+
+    // preferovaný směr
+    if (Math.Abs(dx) > Math.Abs(dy))
+    {
+        newX += Math.Sign(dx);
+    }
+    else
+    {
+        newY += Math.Sign(dy);
+    }
+
+    // když narazí na zeď, zkus druhý směr
+    if (!JePruchozi(newX, newY))
+    {
+        newX = enemyX;
+        newY = enemyY;
+
+        if (Math.Abs(dx) <= Math.Abs(dy))
+            newX += Math.Sign(dx);
+        else
+            newY += Math.Sign(dy);
+    }
+
+    // finální kontrola
+    if (JePruchozi(newX, newY))
+    {
+        mapa[enemyY, enemyX] = podNepritelem;
+
+        podNepritelem = mapa[newY, newX];
+
+        enemyX = newX;
+        enemyY = newY;
+
+        mapa[enemyY, enemyX] = 'X';
+    }
 }
+
+
 
 
 
