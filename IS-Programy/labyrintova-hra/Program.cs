@@ -25,9 +25,22 @@ class Program
     }
 
     
+    static char[,] originalMapa =
+{
+    { '#','#','#','#','#','#','#','#','#','#','#','#','#','#' },
+    { '#',' ',' ',' ',' ','#',' ',' ',' ',' ','*',' ',' ','#' },
+    { '#',' ','#','#',' ','#',' ','#','#','#','#','#',' ','#' },
+    { '#',' ',' ','#',' ',' ',' ',' ',' ',' ',' ','#',' ','#' },
+    { '#',' ',' ',' ',' ',' ',' ','#',' ','#',' ',' ',' ','#' },
+    { '#','#',' ','#','#','#','#','#',' ','#',' ','#',' ','#' },
+    { '#',' ',' ',' ',' ',' ',' ','#',' ','#',' ',' ',' ','#' },
+    { '#',' ','#','#','#','#',' ','#',' ','#','#','#',' ','#' },
+    { '#',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ','E','#' },
+    { '#','#','#','#','#','#','#','#','#','#','#','#','#','#' }
+};
+
     
-    
-    static char[,] mapa =
+    /*static char[,] mapa =
 {
     { '#','#','#','#','#','#','#','#','#','#','#','#','#','#' },
     { '#','@',' ',' ',' ','#',' ',' ',' ',' ','*',' ',' ','#' },
@@ -39,29 +52,37 @@ class Program
     { '#',' ','#','#','#','#',' ','#',' ','#','#','#',' ','#' },
     { '#',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ','E','#' },
     { '#','#','#','#','#','#','#','#','#','#','#','#','#','#' }
-};
+};*/
+    static char[,] mapa;
+
 
     static void ZakladniNastaveni()
     {
+        mapa = (char[,])originalMapa.Clone();
+
         hracX = 1; //static promenna funguje globalne takze je pristupna ve vsech metodach
         hracY = 1;
-
         podHracem = ' '; // uklada co je pod hracem na mape
-        vyhra = false;
-        prohra = false;
-
-
-        running = true; //dokud je true program pobezi
-        maPoklad = false;
+        mapa[hracY, hracX] = '@';
 
         enemyX = 5;
-        enemyY = 5;
+        enemyY = 4;
+        podNepritelem = ' ';
+        mapa[enemyY, enemyX] = 'X';
+
+
+        vyhra = false;
+        prohra = false;
+        running = true; //dokud je true program pobezi
+        maPoklad = false;
         hracZije = true;
     }
     static int hracX = 1; //static promenna funguje globalne takze je pristupna ve vsech metodach
     static int hracY = 1;
 
     static char podHracem = ' '; // uklada co je pod hracem na mape
+    static char podNepritelem = ' ';
+
     static bool vyhra = false;
     static bool prohra = false;
 
@@ -70,7 +91,7 @@ class Program
     static bool maPoklad = false;
 
     static int enemyX = 5;
-    static int enemyY = 5;
+    static int enemyY = 4;
     static bool hracZije = true;
     static Random rnd = new Random();
 
@@ -81,7 +102,8 @@ class Program
 {
     Console.Clear();
     Console.WriteLine("=== ASCII DUNGEON ===\n");
-    Console.WriteLine("Jsi dobrodruh uvězněný v dungeonů.");
+    Console.WriteLine("Jsi dobrodruh uvězněný v dungeonu.");
+    Console.WriteLine("Tvoje postava je (@).\n");
     Console.WriteLine("Tvým cílem je najít poklad (*)");
     Console.WriteLine("a poté dojít k východu (E).\n");
 
@@ -162,24 +184,28 @@ class Program
         }
     }
 
-    static void PresunHrace(int newX, int newY)
+static void PresunHrace(int newX, int newY)
 {
-    if (mapa[newY, newX] == '*')
-       { 
-        maPoklad = true;
-        podHracem = ' ';
-       }
     // vrátíme původní znak
     mapa[hracY, hracX] = podHracem;
 
-    // uložíme, na co vstupujeme
-    podHracem = mapa[newY, newX];
+    // zjištění, na co vstupujeme
+    if (mapa[newY, newX] == '*')
+    {
+        maPoklad = true;
+        podHracem = ' '; // poklad zmizí
+    }
+    else
+    {
+        podHracem = mapa[newY, newX];
+    }
 
     hracX = newX;
     hracY = newY;
 
     mapa[hracY, hracX] = '@';
 }
+
 static void PohniNepritelem()
 {
     int smer = rnd.Next(4);
@@ -197,12 +223,19 @@ static void PohniNepritelem()
 
     if (mapa[newY, newX] != '#')
     {
-        mapa[enemyY, enemyX] = ' ';
+        // vrátíme znak pod nepřítelem
+        mapa[enemyY, enemyX] = podNepritelem;
+
+        // uložíme, na co vstupuje
+        podNepritelem = mapa[newY, newX];
+
         enemyX = newX;
         enemyY = newY;
+
         mapa[enemyY, enemyX] = 'X';
     }
 }
+
 
 
    static void ZkontrolujStav()
@@ -250,13 +283,12 @@ static void PohniNepritelem()
         Console.WriteLine("Hra ukončena.");
     }
 
-    Console.ReadKey();
+    //Console.ReadKey();
 }
 
     static void OpakovaniHry()
     {
-        Console.Clear();
-        Console.WriteLine("chceš-li hrát znovu, tak stiskni klávesu 'a' ");
+        Console.WriteLine("\nChceš-li hrát znovu, tak stiskni klávesu 'a' ");
         again = Console.ReadLine();
         /*if (again == "a")
             ZakladniNastaveni();*/
