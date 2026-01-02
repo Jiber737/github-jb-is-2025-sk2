@@ -2,6 +2,31 @@
 
 class Program
 {
+    static void Main()
+    {
+        Uvod(); //hlavni menicko ktere uvede hrace do hry
+        while (again == "a")
+        {
+            Console.CursorVisible = false; 
+            ZakladniNastaveni();
+           
+            while (running)
+            {
+                Console.Clear();
+                VykresliMapu();
+                OvladejHrace();
+                PohniNepritelem();
+                ZkontrolujStav();
+            }
+
+            KonecHry();
+            OpakovaniHry();
+        }
+    }
+
+    
+    
+    
     static char[,] mapa =
 {
     { '#','#','#','#','#','#','#','#','#','#','#','#','#','#' },
@@ -16,16 +41,32 @@ class Program
     { '#','#','#','#','#','#','#','#','#','#','#','#','#','#' }
 };
 
+    static void ZakladniNastaveni()
+    {
+        hracX = 1; //static promenna funguje globalne takze je pristupna ve vsech metodach
+        hracY = 1;
 
-    static int hracX = 1;
+        podHracem = ' '; // uklada co je pod hracem na mape
+        vyhra = false;
+        prohra = false;
+
+
+        running = true; //dokud je true program pobezi
+        maPoklad = false;
+
+        enemyX = 5;
+        enemyY = 5;
+        hracZije = true;
+    }
+    static int hracX = 1; //static promenna funguje globalne takze je pristupna ve vsech metodach
     static int hracY = 1;
 
-    static char podHracem = ' ';
+    static char podHracem = ' '; // uklada co je pod hracem na mape
     static bool vyhra = false;
     static bool prohra = false;
 
 
-    static bool running = true;
+    static bool running = true; //dokud je true program pobezi
     static bool maPoklad = false;
 
     static int enemyX = 5;
@@ -33,24 +74,8 @@ class Program
     static bool hracZije = true;
     static Random rnd = new Random();
 
-
-    static void Main()
-    {
-        Console.CursorVisible = false;
-        Uvod();
-        while (running)
-        {
-            Console.Clear();
-            VykresliMapu();
-            OvladejHrace();
-            PohniNepritelem();
-            ZkontrolujStav();
-        }
-
-        KonecHry();
-    }
-
-    // =======================
+    static string again = "a";
+    
 
     static void Uvod()
 {
@@ -74,7 +99,7 @@ class Program
 
     static void VykresliMapu()
     {
-        for (int y = 0; y < mapa.GetLength(0); y++)
+        for (int y = 0; y < mapa.GetLength(0); y++) 
         {
             for (int x = 0; x < mapa.GetLength(1); x++)
             {
@@ -227,5 +252,16 @@ static void PohniNepritelem()
 
     Console.ReadKey();
 }
+
+    static void OpakovaniHry()
+    {
+        Console.Clear();
+        Console.WriteLine("chceš-li hrát znovu, tak stiskni klávesu 'a' ");
+        again = Console.ReadLine();
+        /*if (again == "a")
+            ZakladniNastaveni();*/
+    }
+
+    
 
 }
